@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\andrew\documents\opengl tutorials\openglvs\openglvs\main.cpp(291): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl tutorials\openglvs\openglvs\main.cpp(292): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl tutorials\openglvs\openglvs\main.cpp(296): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl tutorials\openglvs\openglvs\main.cpp(297): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl tutorials\openglvs\openglvs\main.cpp(299): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl tutorials\openglvs\openglvs\main.cpp(300): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGLVS.vcxproj -> C:\Users\Andrew\Documents\OpenGL Tutorials\OpenGLVS\Debug\OpenGLVS.exe
+  OpenGLVS.vcxproj -> C:\Users\Andrew\Documents\OpenGL Tutorials\OpenGLVS\Debug\OpenGLVS.pdb (Partial PDB)

@@ -1,0 +1,22 @@
+﻿  main.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glfw3.lib(context.c.obj) : error LNK2001: unresolved external symbol __imp__strstr
+glfw3.lib(win32_joystick.c.obj) : error LNK2001: unresolved external symbol __imp__strstr
+glfw3.lib(context.c.obj) : error LNK2001: unresolved external symbol __imp____stdio_common_vsscanf
+glfw3.lib(wgl_context.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(egl_context.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(win32_init.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(win32_monitor.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(monitor.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(vulkan.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(input.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(window.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(win32_window.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(win32_joystick.c.obj) : error LNK2001: unresolved external symbol __imp__calloc
+glfw3.lib(win32_window.c.obj) : error LNK2001: unresolved external symbol __imp___strdup
+glfw3.lib(win32_joystick.c.obj) : error LNK2001: unresolved external symbol __imp___strdup
+glfw3.lib(monitor.c.obj) : error LNK2001: unresolved external symbol __imp___strdup
+glfw3.lib(win32_monitor.c.obj) : error LNK2001: unresolved external symbol __imp__realloc
+MSVCRT.lib(_chandler4gs_.obj) : error LNK2001: unresolved external symbol __except_handler4_common
+C:\Users\Andrew\Documents\OpenGL Tutorials\OpenGLVS\Release\OpenGLVS.exe : fatal error LNK1120: 6 unresolved externals
